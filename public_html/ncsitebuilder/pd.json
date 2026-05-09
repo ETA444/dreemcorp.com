@@ -28,11 +28,11 @@
         "Menu": true,
         "StoreCart": true,
         "BookmarksShare": true,
-        "facebook_comment": true,
         "BuyNow": true,
         "instagram": true,
         "Store": true,
         "stripe": true,
+        "mercado": true,
         "alipay": true,
         "webmoney_button": true,
         "skrill": true,
@@ -58,13 +58,19 @@
         "ecwid": true,
         "coinpayments": true,
         "mpesa": true,
+        "pagopar": true,
+        "aamarpay": true,
+        "baokim": true,
+        "bepaid": true,
+        "robokassa": true,
+        "artpay": true,
         "FacebookLike": true,
         "FacebookFans": true,
         "pinterest": true,
-        "Twitter": true,
         "telegram_widget": true,
         "vkontakte_comment": true,
         "tiktok": true,
+        "Twitter": true,
         "google_calendar": true,
         "GoogleAdSense": true,
         "Banner": true,
@@ -76,6 +82,8 @@
         "bookingmood": true,
         "bookaplace": true,
         "getbutton": true,
+        "tawkto": true,
+        "olark": true,
         "zopim": true,
         "smartarget": true,
         "WB_Footer": true,
@@ -193,10 +201,6 @@
             "Full",
             "Social"
         ],
-        "facebook_comment": [
-            "Full",
-            "Social"
-        ],
         "BuyNow": [
             "Full",
             "Commerce"
@@ -210,6 +214,10 @@
             "Commerce"
         ],
         "stripe": [
+            "Full",
+            "Commerce"
+        ],
+        "mercado": [
             "Full",
             "Commerce"
         ],
@@ -313,6 +321,30 @@
             "Full",
             "Commerce"
         ],
+        "pagopar": [
+            "Full",
+            "Commerce"
+        ],
+        "aamarpay": [
+            "Full",
+            "Commerce"
+        ],
+        "baokim": [
+            "Full",
+            "Commerce"
+        ],
+        "bepaid": [
+            "Full",
+            "Commerce"
+        ],
+        "robokassa": [
+            "Full",
+            "Commerce"
+        ],
+        "artpay": [
+            "Full",
+            "Commerce"
+        ],
         "FacebookLike": [
             "Full",
             "Social"
@@ -325,10 +357,6 @@
             "Full",
             "Social"
         ],
-        "Twitter": [
-            "Full",
-            "Social"
-        ],
         "telegram_widget": [
             "Full",
             "Social"
@@ -338,6 +366,10 @@
             "Social"
         ],
         "tiktok": [
+            "Full",
+            "Social"
+        ],
+        "Twitter": [
             "Full",
             "Social"
         ],
@@ -385,6 +417,14 @@
             "Full",
             "Advanced"
         ],
+        "tawkto": [
+            "Full",
+            "Advanced"
+        ],
+        "olark": [
+            "Full",
+            "Advanced"
+        ],
         "zopim": [
             "Full",
             "Advanced"
@@ -395,5 +435,6 @@
         ]
     },
     "d": null,
-    "e": "8a13ca0720c02b36df02e54e836e97d4a1b4025c"
+    "f": 0,
+    "e": "6ac3dfd741816fbaaf176095b4883ca8814a2447"
 }
