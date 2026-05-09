@@ -1,0 +1,95 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://dreemcorp.com/#organization",
+      "name": "DREEMCORP",
+      "url": "https://dreemcorp.com",
+      "description": "DREEMCORP is a creative agency and media production house specializing in video editing, social media content creation, personal branding, and visual production.",
+      "foundingDate": "2022",
+      "knowsAbout": [
+        "Video Editing",
+        "Social Media Content Creation",
+        "Personal Branding",
+        "Short-form Video",
+        "Long-form Video Editing",
+        "Color Correction",
+        "YouTube Branding",
+        "Instagram Reels",
+        "TikTok Content",
+        "Visual Production"
+      ],
+      "founder": [
+        {
+          "@type": "Person",
+          "@id": "https://georgedreemer.com/#person",
+          "name": "George Dreemer",
+          "url": "https://georgedreemer.com",
+          "sameAs": [
+            "https://x.com/444eta",
+            "https://github.com/ETA444",
+            "https://linkedin.com/in/georgedreemer"
+          ]
+        }
+      ],
+      "sameAs": [
+        "https://georgedreemer.com/dreemcorp"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://dreemcorp.com/#website",
+      "url": "https://dreemcorp.com",
+      "name": "DREEMCORP",
+      "publisher": {
+          "@id": "https://dreemcorp.com/#organization"
+      },
+      "relatedLink": [
+          "https://georgedreemer.com",
+          "https://cryptopandemic.com",
+          "https://datasafari.dev",
+          "https://skipschoolmakemoney.com"
+      ]
+    },
+    {
+      "@type": "Service",
+      "name": "Video Editing",
+      "provider": { "@id": "https://dreemcorp.com/#organization" },
+      "description": "Long-form and short-form video editing including cutting, color correction, SFX, and custom transitions for YouTube, Instagram, and TikTok.",
+      "serviceType": "Video Production"
+    },
+    {
+      "@type": "Service",
+      "name": "Personal Branding",
+      "provider": { "@id": "https://dreemcorp.com/#organization" },
+      "description": "Full visual identity packages including profile pictures, channel covers, outros, and logo design for cohesive online personas.",
+      "serviceType": "Branding"
+    },
+    {
+      "@type": "Service",
+      "name": "Social Media Content",
+      "provider": { "@id": "https://dreemcorp.com/#organization" },
+      "description": "Platform-native content production for Instagram Reels, TikTok, and YouTube. Short-form and long-form, engineered for engagement.",
+      "serviceType": "Content Creation"
+    },
+    {
+      "@type": "Person",
+      "@id": "https://georgedreemer.com/#person",
+      "name": "George Dreemer",
+      "url": "https://georgedreemer.com",
+      "jobTitle": "Creative Director & Developer",
+      "worksFor": {
+        "@id": "https://dreemcorp.com/#organization"
+      },
+      "sameAs": [
+        "https://x.com/444eta",
+        "https://github.com/ETA444",
+        "https://linkedin.com/in/georgedreemer",
+        "https://georgedreemer.com",
+        "https://cryptopandemic.com",
+        "https://datasafari.dev"
+      ]
+    }
+  ]
+}
