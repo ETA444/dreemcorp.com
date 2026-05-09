@@ -85,7 +85,7 @@
 	$langs = null;
 	$def_lang = null;
 	$base_lang = 'en';
-	$site_id = '7f8da402';
+	$site_id = 'ada3233a';
 	${'sitemapUrls'} = array(
 		'http://dreemcorp.com/'
 	);

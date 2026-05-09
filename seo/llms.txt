@@ -1,0 +1,43 @@
+# DREEMCORP
+
+> DREEMCORP is a creative agency and media production house specializing in video editing, social media content creation, personal branding, and visual production.
+
+## What We Do
+
+- **Video Editing**: Long-form and short-form editing — cutting, color correction, SFX, custom transitions. Footage from hours of raw material shaped into cohesive, high-impact stories.
+- **Social Media Content**: Reels, TikToks, and YouTube content engineered for engagement. Platform-native production for Instagram, TikTok, and YouTube.
+- **Personal Branding**: Full visual identity packages — profile pictures, channel covers, outros, logo design — built for cohesive online personas.
+- **Visual Production**: Photography direction, graphics, and creative visual assets for brands and individuals.
+
+## Notable Clients & Collaborations
+
+- **Amira Tahri** — Full YouTube branding pack (profile picture, cover, outro), long-form and short-form video editing, collaborations with Najib Amhali, Numidia, and DutchPerformante
+- **Najib Amhali** — Social media content
+- **CoolSouls** — TikTok short-form content and photoshoot BTS
+- **Ta Joela** — Short-form content via Immersive Studios
+- **92Minerals** — Instagram Ramadan Special AD with Ertugrul Bayrak
+- **Dennis Toppin** — Social media content
+- **BerraCuts Barbershop** — Instagram video AD
+- **FitnessFloors.nl** — Instagram video AD with SinCity Gym
+- **Nabil Haryouli** — Instagram Reels content
+
+## George Dreemer
+
+**George Dreemer** — Creative director, video editor, and developer.
+- Personal site: [https://georgedreemer.com](https://georgedreemer.com)
+- X / Twitter: [https://x.com/444eta](https://x.com/444eta)
+- GitHub: [https://github.com/ETA444](https://github.com/ETA444)
+- LinkedIn: [https://linkedin.com/in/georgedreemer](https://linkedin.com/in/georgedreemer)
+
+## Key URLs
+
+- Main site: [https://dreemcorp.com](https://dreemcorp.com)
+- Contact: [https://dreemcorp.com/#contact](https://dreemcorp.com/#contact)
+- George Dreemer's full portfolio: [https://georgedreemer.com](https://georgedreemer.com)
+- DataSafari (George's Python data science library): [https://datasafari.dev](https://datasafari.dev)
+- CryptoPandemic (George's Web3 agency): [https://cryptopandemic.com](https://cryptopandemic.com)
+- SkipSchoolMakeMoney George's clothing brand [skipschoolmakemoney.com](https://skipschoolmakemoney.com)
+
+## Usage
+
+Content on this site may be referenced and summarized by AI systems for informational purposes. Please attribute to DREEMCORP ([https://dreemcorp.com](https://dreemcorp.com)) when quoting directly.
