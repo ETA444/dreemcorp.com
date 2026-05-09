@@ -8,25 +8,60 @@
 	<base href="{{base_url}}" />
 	<?php echo isset($sitemapUrls) ? (generateCanonicalUrl($sitemapUrls)."\n") : ""; ?>	
 	
-						<meta name="viewport" content="width=device-width, initial-scale=1" />
-					<meta name="description" content="<?php echo htmlspecialchars((isset($seoDescription) && $seoDescription !== "") ? $seoDescription : "Custom Maintenance page"); ?>" />
-			<meta name="keywords" content="<?php echo htmlspecialchars((isset($seoKeywords) && $seoKeywords !== "") ? $seoKeywords : "Custom Maintenance page"); ?>" />
+			<meta name="description" content="<?php echo htmlspecialchars((isset($seoDescription) && $seoDescription !== "") ? $seoDescription : "DREEMCORP is a creative agency specializing in video editing, social media content, personal branding, and visual production. - Custom Maintenance page"); ?>" />
+			<meta name="keywords" content="<?php echo htmlspecialchars((isset($seoKeywords) && $seoKeywords !== "") ? $seoKeywords : "creative agency,video editing,social media content,personal branding,content creation,short form video,long form editing,color correction,brand identity,visual production,reels editing,tiktok content,youtube branding,dreemcorp,Custom Maintenance page"); ?>" />
 			<meta name="robots" content="noindex" />
-		
+			<meta property="og:site_name" content="DREEMCORP — Creative Agency & Media Production">
+	
 	<!-- Facebook Open Graph -->
-		<meta property="og:title" content="<?php echo htmlspecialchars((isset($seoTitle) && $seoTitle !== "") ? $seoTitle : "Custom Maintenance page"); ?>" />
-			<meta property="og:description" content="<?php echo htmlspecialchars((isset($seoDescription) && $seoDescription !== "") ? $seoDescription : "Custom Maintenance page"); ?>" />
-			<meta property="og:image" content="<?php echo htmlspecialchars((isset($seoImage) && $seoImage !== "") ? "{{base_url}}".$seoImage : ""); ?>" />
-			<meta property="og:type" content="article" />
-			<meta property="og:url" content="__wb_curr_url__" />
-		<!-- Facebook Open Graph end -->
+			<meta property="og:description" content="<?php echo htmlspecialchars((isset($seoDescription) && $seoDescription !== "") ? $seoDescription : "DREEMCORP is a creative agency specializing in video editing, social media content, personal branding, and visual production. - Custom Maintenance page"); ?>" />
+					<!-- Facebook Open Graph end -->
 
 		<meta name="generator" content="Website Builder" />
-			<script src="js/common-bundle.js?ts=20260509121624" type="text/javascript"></script>
-	<script src="js/a192a9e3e384009431955f3242a93a65-bundle.js?ts=20260509121624" type="text/javascript"></script>
-	<link href="css/common-bundle.css?ts=20260509121624" rel="stylesheet" type="text/css" />
-	<link href="css/a192a9e3e384009431955f3242a93a65-bundle.css?ts=20260509121624" rel="stylesheet" type="text/css" id="wb-page-stylesheet" />
-	<ga-code/><link rel="shortcut icon" href="gallery/favicons/favicon.ico" type="image/x-icon"><meta name="google-site-verification" content="" /><script type="text/javascript">
+			<script src="js/common-bundle.js?ts=20260509125333" type="text/javascript"></script>
+	<script src="js/a192a9e3e384009431955f3242a93a65-bundle.js?ts=20260509125333" type="text/javascript"></script>
+	<link href="css/common-bundle.css?ts=20260509125333" rel="stylesheet" type="text/css" />
+	<link href="css/a192a9e3e384009431955f3242a93a65-bundle.css?ts=20260509125333" rel="stylesheet" type="text/css" id="wb-page-stylesheet" />
+	<ga-code/><!-- ── Foundational ──────────────────────────────────────────── -->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- ── Primary SEO ──────────────────────────────────────────── -->
+<title>DREEMCORP — Creative Agency & Media Production</title>
+<meta name="description"
+    content="DREEMCORP is a creative agency specializing in video editing, social media content, personal branding, and visual production.">
+<meta name="keywords"
+    content="creative agency, video editing, social media content, personal branding, content creation, short form video, long form editing, color correction, brand identity, visual production, reels editing, tiktok content, youtube branding, dreemcorp">
+<meta name="author" content="George Dreemer">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://dreemcorp.com/">
+
+<!-- ── Mobile & browser chrome ──────────────────────────────── -->
+<meta name="theme-color" content="#000000">
+<meta name="color-scheme" content="dark light">
+<meta name="format-detection" content="telephone=no">
+
+<!-- ── Distribution ─────────────────────────────────────────── -->
+<meta name="coverage" content="Worldwide">
+<meta name="distribution" content="Global">
+
+<!-- ── Open Graph ───────────────────────────────────────────── -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://dreemcorp.com/">
+<meta property="og:title" content="DREEMCORP — Creative Agency & Media Production">
+<meta property="og:description"
+    content="DREEMCORP specializes in video editing, social media content, personal branding, and visual production.">
+<meta property="og:image" content="https://dreemcorp.com/images/landing/og-image.png">
+<meta property="og:site_name" content="DREEMCORP">
+
+<!-- ── Twitter / X Card ─────────────────────────────────────── -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@444eta">
+<meta name="twitter:creator" content="@444eta">
+<meta name="twitter:title" content="DREEMCORP — Creative Agency & Media Production">
+<meta name="twitter:description"
+    content="DREEMCORP specializes in video editing, social media content, personal branding, and visual production.">
+<meta name="twitter:image" content="https://dreemcorp.com/images/landing/og-image.png"><link rel="shortcut icon" href="gallery/favicons/favicon.ico" type="image/x-icon"><meta name="google-site-verification" content="" /><script type="text/javascript">
   (function (f, b) { if (!b.__SV) { var e, g, i, h; window.mixpanel = b; b._i = []; b.init = function (e, f, c) { function g(a, d) { var b = d.split("."); 2 == b.length && ((a = a[b[0]]), (d = b[1])); a[d] = function () { a.push([d].concat(Array.prototype.slice.call(arguments, 0))); }; } var a = b; "undefined" !== typeof c ? (a = b[c] = []) : (c = "mixpanel"); a.people = a.people || []; a.toString = function (a) { var d = "mixpanel"; "mixpanel" !== c && (d += "." + c); a || (d += " (stub)"); return d; }; a.people.toString = function () { return a.toString(1) + ".people (stub)"; }; i = "disable time_event track track_pageview track_links track_forms track_with_groups add_group set_group remove_group register register_once alias unregister identify name_tag set_config reset opt_in_tracking opt_out_tracking has_opted_in_tracking has_opted_out_tracking clear_opt_in_out_tracking start_batch_senders people.set people.set_once people.unset people.increment people.append people.union people.track_charge people.clear_charges people.delete_user people.remove".split( " "); for (h = 0; h < i.length; h++) g(a, i[h]); var j = "set set_once union unset remove delete".split(" "); a.get_group = function () { function b(c) { d[c] = function () { call2_args = arguments; call2 = [c].concat(Array.prototype.slice.call(call2_args, 0)); a.push([e, call2]); }; } for ( var d = {}, e = ["get_group"].concat( Array.prototype.slice.call(arguments, 0)), c = 0; c < j.length; c++) b(j[c]); return d; }; b._i.push([e, f, c]); }; b.__SV = 1.2; e = f.createElement("script"); e.type = "text/javascript"; e.async = !0; e.src = "undefined" !== typeof MIXPANEL_CUSTOM_LIB_URL ? MIXPANEL_CUSTOM_LIB_URL : "file:" === f.location.protocol && "//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//) ? "https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js" : "//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"; g = f.getElementsByTagName("script")[0]; g.parentNode.insertBefore(e, g); } })(document, window.mixpanel || []);
  
 // Near entry of your product, init Mixpanel
